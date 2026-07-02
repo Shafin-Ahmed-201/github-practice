@@ -1,7 +1,8 @@
 # One time for each project to start git
 git init
-  
+# Every tme to add something
 git add . 
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Shafin-Ahmed-201/github-practice.git
